@@ -1,3 +1,4 @@
+# definisce la funzione principale
 def cheese_and_crackers(cheese_count, cracker_count):
 	print(f"You have {cheese_count} cheeses.")
 	print(f"You have {cracker_count} boxes of crackers.")
@@ -5,6 +6,7 @@ def cheese_and_crackers(cheese_count, cracker_count):
 	print("Get a blanket.\n")
 
 
+# Esempi di come può essere utilizzata la funzione definita
 print("We can just give the function numbers directly")
 cheese_and_crackers(20, 30)
 
